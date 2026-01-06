@@ -5,7 +5,7 @@ I’m a **Game Server & Web Developer** with a strong focus on **SA-MP scripting
 I enjoy designing **complex game systems**, optimizing performance, and building **scalable, real-world web applications**.
 
 I’m passionate about:
-- 🔧 Developing advanced SA-MP systems (banking, inventory, UI, roleplay mechanics)
+- 🔧 Developing advanced SA-MP systems
 - 🌐 Building secure & efficient web backends
 - ⚙️ Performance optimization & clean architecture
 - 🚀 Learning new technologies and turning ideas into working products
