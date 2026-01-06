@@ -26,6 +26,13 @@ I enjoy designing **complex game systems**, optimizing performance, and building
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 | Focus Area | Description |
 |-----------|------------|
 | SA-MP Systems | Engineering advanced SA-MP systems and gameplay mechanics |
