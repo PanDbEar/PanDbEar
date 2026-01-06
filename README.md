@@ -15,8 +15,6 @@ I enjoy designing **complex game systems**, optimizing performance, and building
 
 <img src="https://img.shields.io/badge/SA--MP-Systems-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Backend-Security-success?style=flat-square"/> <img src="https://img.shields.io/badge/Performance-Optimization-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Innovation-Technology-purple?style=flat-square"/>
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pawn](https://img.shields.io/badge/PAWN-SA--MP-blue?style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
