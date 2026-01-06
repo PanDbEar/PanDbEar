@@ -12,9 +12,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: PanDbEar
+
+          # VISUAL CONCEPT: SNAKE FOLLOWS GREEN CONTRIBUTIONS
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/snake-dark.svg?palette=github-dark&color_snake=#2ea043&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/snake-light.svg?palette=github-light&color_snake=#2da44e
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
