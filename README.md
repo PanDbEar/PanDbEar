@@ -1,17 +1,25 @@
-# 💫 About Me
+# Cahya Atma Wijaya
 
-Hi! 👋  
-I’m a **Game Server & Web Developer** with a strong focus on **SA-MP scripting** and **full-stack web development**.  
-I enjoy designing **complex game systems**, optimizing performance, and building **scalable, real-world web applications**.
+<p align="center">
+  <img width="400" alt="Cahya Atma Wijaya" src="https://avatars.githubusercontent.com/u/123480664?s=400&u=99c9617a2e898e7b4c2610fa33d7029140b98ea9&v=4" />
+</p>
 
+<p align="center"><sub><em>
+I stopped waiting for permission and started treating life like an optimization problem.<br />
+Most people inherit a script. I kept rewriting mine until the policy converged toward leverage, asymmetric upside, and compounding luck surface area.<br />
+Now I build zero-employee systems, AI-native workflows, and independent infrastructure designed to scale without noise.<br />
+If there’s one thing worth protecting while carving your own path, it’s your cogsec.<br />
+The feed reshapes people quietly. Trends become beliefs. Algorithms become identity. External narratives try to overwrite your internal model every day.<br />
+Don’t let them steer.<br />
+Train your own mind. Hold your frame. Survive long enough for probability to bend in your favor.
+</em></sub></p>
 
 > *“Code is not just about making things work, but making them work well.”* 
 
 ---
 
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PanDbEar&theme=github-compact)
-
+# Program Language
 
 <img src="https://img.shields.io/badge/SA--MP-Systems-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Backend-Security-success?style=flat-square"/> <img src="https://img.shields.io/badge/Performance-Optimization-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Innovation-Technology-purple?style=flat-square"/>
 
@@ -26,19 +34,15 @@ I enjoy designing **complex game systems**, optimizing performance, and building
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-light.svg">
-</picture>
-
-
+## Now
 | Focus Area | Description |
 |-----------|------------|
-| SA-MP Systems | Engineering advanced SA-MP systems and gameplay mechanics |
-| Backend Development | Building secure, scalable, and high-performance web backends |
-| Software Architecture | Performance optimization with clean and maintainable architecture |
-| Continuous Learning | Exploring new technologies and turning ideas into real-world solutions |
+| SA-MP Systems | Engineering advanced SA-MP systems, gameplay mechanics, and scalable multiplayer infrastructure |
+| AI-Native Systems | Building autonomous workflows, agentic tooling, and zero-employee infrastructure |
+| Backend Engineering | Designing secure, scalable, and high-performance backend systems |
+| Systems Architecture | Optimizing performance through clean abstractions and maintainable architecture |
+| Probability Engineering | Maximizing leverage, optionality, and luck surface area through iterative execution |
+| Continuous Exploration | Experimenting with emerging technologies and turning ideas into compounding systems |
 ---
 ## 💬 Community & Discord
 
@@ -46,8 +50,9 @@ I enjoy designing **complex game systems**, optimizing performance, and building
 
 ---
 
-## 📫 Contact & Collaboration
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-light.svg">
+</picture>
 
-- 💡 Open for collaboration (SA-MP & Web Projects)
-- 🛠️ Enjoy discussing systems & optimization
-- 🤝 Let’s build something awesome together
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PanDbEar&theme=github-compact)
