@@ -1,7 +1,7 @@
 # Cahya Atma Wijaya
 
 <p align="center">
-  <img width="400" alt="Cahya Atma Wijaya" src="https://avatars.githubusercontent.com/u/123480664?s=400&u=99c9617a2e898e7b4c2610fa33d7029140b98ea9&v=4" />
+  <img width="400" alt="Cahya Atma Wijaya" src="https://cdn.mataramteachingfactory.store/cid.png" />
 </p>
 
 <p align="center"><sub><em>
