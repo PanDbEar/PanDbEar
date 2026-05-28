@@ -101,3 +101,19 @@ Train your own mind. Hold your frame. Survive long enough for probability to ben
 </picture>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PanDbEar&theme=github-compact)
+
+---
+
+<div align="center">
+
+  <h3>Let's Connect</h3>
+
+  <a href="https://discord.com/users/566800987638071296">
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <br><br>
+  <sub>Building private systems, automation workflows, and production-ready digital products.</sub>
+
+</div>
+
+---
