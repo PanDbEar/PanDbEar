@@ -1,7 +1,7 @@
 # Cahya Atma Wijaya
 
 <p align="center">
-  <img width="400" alt="Cahya Atma Wijaya" src="https://cdn.mataramteachingfactory.store/cid.png" />
+  <img width="400" alt="Cahya Atma Wijaya" src="asset/foto.png" />
 </p>
 
 <p align="center"><sub><em>
@@ -89,30 +89,50 @@ Train your own mind. Hold your frame. Survive long enough for probability to ben
 
 ---
 
-## 💬 Community & Discord
+## Community & Discord
 
 [![Discord Banner](https://discordapp.com/api/guilds/887701633293766697/widget.png?style=banner3)](https://discord.gg/AfcnrgHcKQ)  [![Discord Banner](https://discordapp.com/api/guilds/1070653823313531000/widget.png?style=banner3)](https://discord.gg/MUtcaZffgf)
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-light.svg">
-</picture>
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PanDbEar&theme=github-compact)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/PanDbEar/PanDbEar/output/snake-light.svg"
+      alt="GitHub contribution snake animation"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
 <div align="center">
 
-  <h3>Let's Connect</h3>
+  <h2 align="center">Let's Connect</h2>
 
+<p align="center">
   <a href="https://discord.com/users/566800987638071296">
-    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img
+      src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Contact me on Discord"
+    />
   </a>
-  <br><br>
+  <a href="mailto:alifcahyagithub@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact me by email"
+    />
+  </a>
+</p>
+
+<p align="center">
   <sub>Building private systems, automation workflows, and production-ready digital products.</sub>
+</p>
 
 </div>
 
