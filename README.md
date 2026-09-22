@@ -19,19 +19,51 @@ Train your own mind. Hold your frame. Survive long enough for probability to ben
 ---
 
 
-# Program Language
+## Engineering Stack
 
-<img src="https://img.shields.io/badge/SA--MP-Systems-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Backend-Security-success?style=flat-square"/> <img src="https://img.shields.io/badge/Performance-Optimization-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Innovation-Technology-purple?style=flat-square"/>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <sub><b>LANGUAGES</b></sub>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=go,kotlin,python,js,cpp" alt="Languages" />
+      <br><br>
+      <sub>Pawn · Go · Kotlin · Python · JavaScript · C++</sub>
+    </td>
 
-![Pawn](https://img.shields.io/badge/PAWN-SA--MP-blue?style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<td align="center" width="33%">
+  <sub><b>BACKEND & DATA</b></sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,nginx" alt="Backend and Data" />
+  <br><br>
+  <sub>MySQL · PostgreSQL · JWT · REST APIs</sub>
+</td>
+
+<td align="center" width="33%">
+  <sub><b>INFRASTRUCTURE</b></sub>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" alt="Infrastructure" />
+  <br><br>
+  <sub>Linux · Docker · Nginx · Git · CI/CD</sub>
+</td>
+
+
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>
+    Systems Engineering&nbsp;&nbsp;·&nbsp;&nbsp;
+    Backend Security&nbsp;&nbsp;·&nbsp;&nbsp;
+    Performance Optimization&nbsp;&nbsp;·&nbsp;&nbsp;
+    Game Infrastructure&nbsp;&nbsp;·&nbsp;&nbsp;
+    AI-Native Workflows
+  </sub>
+</p>
+
 
 ---
 <h2>Current Private Work</h2>
