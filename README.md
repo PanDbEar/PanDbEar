@@ -152,23 +152,22 @@ The goal is simple: build independent systems that compound capability without c
     </td>
 
   <td width="50%" valign="top">
-      <b>Private Infrastructure R&amp;D</b>
-      <br>
-      <sub>
-        Experimental infrastructure work · Linux servers, edge networking, deployment systems, hosting architecture, and automation
-      </sub>
-      <br><br>
-      <img
-        src="https://img.shields.io/static/v1?style=for-the-badge&label=status&message=ongoing%20research&labelColor=f97316&color=111827"
-        alt="Infrastructure R&D"
-      >
-      <br>
-      <img
-        src="https://img.shields.io/static/v1?style=flat-square&label=focus&message=linux%20%7C%20networking%20%7C%20infrastructure&color=fb923c"
-        alt="Infrastructure focus"
-      >
-    </td>
-  </tr>
+      <b>MTF-DigitalMarket</b>
+    <br>
+    <sub>
+      Private e-commerce and Teaching Factory platform · vendor management, product catalog, transactions, backend API, and deployment infrastructure
+    </sub>
+    <br><br>
+    <img
+      src="https://img.shields.io/static/v1?style=for-the-badge&label=status&message=private%20development&labelColor=f97316&color=111827"
+      alt="MTF-DigitalMarket private development"
+    >
+    <br>
+    <img
+      src="https://img.shields.io/static/v1?style=flat-square&label=focus&message=e-commerce%20%7C%20backend%20%7C%20deployment&color=fb923c"
+      alt="MTF-DigitalMarket focus"
+    >
+  </td>
 </table>
 
 ---
